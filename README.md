@@ -13,10 +13,6 @@ Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, in
 - 🎓 **Education:** B.Tech in Computer Engineering with an AI/ML specialization at PICT Pune — CGPA: **9.56**.
 - ⚡ **Fun fact:** A simple DSA assignment became [RouteRush Island](https://github.com/VedantKarne/routerush-island), a gamified pathfinding simulator for Windows, macOS, and Linux.
 
-## 🔗 I am a Technical Content Creator 😊
-
-I write engineering stories, project case studies, and practical breakdowns of the systems I build. Follow my profiles to stay updated with new projects, tutorials, and development journeys.
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_karne_11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-karne-31023b302/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vedantkarne15)
