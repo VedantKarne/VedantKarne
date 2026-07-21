@@ -2,23 +2,53 @@
 
 **A passionate Software Engineer || AI/ML Engineer || Product Builder from India**
 
-Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, internships, or anything tech-related. 😊
+Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, or anything tech-related. 😊
 
-- 🔭 **I’m currently working on:** [Nirmaan AI](https://github.com/VedantKarne/SME-IPO-DRHP-Generator) — an agentic platform for SEBI-compliant SME IPO document preparation, and [AURA](https://github.com/VedantKarne/AURA-Financial-Intelligence) — a multi-agent financial intelligence platform.
-- 🌱 **I’m currently learning:** Advanced DSA, scalable system design, backend architecture, and production evaluation for agentic AI systems.
-- 👯 **I’m looking to collaborate on:** Applied AI, agentic RAG, ML systems, fintech, backend engineering, developer tooling, and meaningful open-source projects.
-- 🤔 **I’m looking for help with:** Production-grade evaluation, observability, and deployment patterns for multi-agent RAG systems.
-- 💬 **Ask me about:** LangGraph, LangChain, hybrid retrieval, machine learning, data leakage, XGBoost, FastAPI, React, and DSA.
-- 📫 **How to reach me:** [vedantkarne15@gmail.com](mailto:vedantkarne15@gmail.com)
-- 🎓 **Education:** B.Tech in Computer Engineering with an AI/ML specialization at PICT Pune — CGPA: **9.56**.
-- ⚡ **Fun fact:** A simple DSA assignment became [RouteRush Island](https://github.com/VedantKarne/routerush-island), a gamified pathfinding simulator for Windows, macOS, and Linux.
+## 🚀 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_karne_11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-karne-31023b302/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vedantkarne15)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VedantKarne-h8h)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/VedantKarne)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkarne15@gmail.com)
+| | |
+|---|---|
+| 🔭 **Building** | **[Nirmaan AI](https://github.com/VedantKarne/SME-IPO-DRHP-Generator)** • Agentic SME IPO document preparation platform<br>**[AURA](https://github.com/VedantKarne/AURA-Financial-Intelligence)** • Agentic RAG financial intelligence platform |
+| 🌱 **Learning** | Advanced DSA • Scalable System Design • Backend Architecture • Agentic AI Evaluation |
+| 👯 **Collaborating On** | Applied AI • RAG Systems • ML • FinTech • Backend Engineering • Open Source |
+| 🤔 **Exploring** | Multi-Agent Evaluation • Observability • Production Deployment • RAG Reliability |
+| 💬 **Ask Me About** | LangGraph • LangChain • Hybrid Retrieval • XGBoost • FastAPI • React • DSA |
+| 📫 **Email** | **[vedantkarne15@gmail.com](mailto:vedantkarne15@gmail.com)** |
+| 🎓 **Education** | B.Tech Computer Engineering (AI/ML), PICT Pune<br>**CGPA: 9.56** |
+| ⚡ **Fun Fact** | **[RouteRush Island](https://github.com/VedantKarne/routerush-island)** started as a DSA assignment and evolved into a cross-platform pathfinding simulator. |
+
+<!-- Connect Section -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-karne-31023b302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/VedantKarne">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:vedantkarne15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@vedantkarne15">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://youtube.com/@VedantKarne-h8h">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://instagram.com/vedant_karne_11">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to collaborations, research opportunities, hackathons, and innovative engineering projects.</i>
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=VedantKarne&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -169,7 +199,7 @@ Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, in
 
 <!-- Contribution Timeline -->
 
-<h3 align="center">⚡ Contribution Momentum</h3>
+<h3 align="center">⚡ Contribution Momentum ⚡</h3>
 
 <p align="center">
   <img
