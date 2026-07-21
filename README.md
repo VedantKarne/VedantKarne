@@ -497,7 +497,7 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <br>
 
 <!-- Contribution Snake -->
-## 🐍 Contribution Stats
+<h2 align="center">🐍 Contribution Stats</h2>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
