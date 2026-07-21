@@ -1,14 +1,11 @@
 name: Generate Enhanced Contribution Snake
 
 on:
-  # Regenerate automatically every day.
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual execution from the Actions tab.
   workflow_dispatch:
 
-  # Regenerate when this workflow is changed.
   push:
     branches:
       - main
@@ -18,18 +15,16 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     permissions:
       contents: write
 
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      # Step 1: Download the repository files.
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the base snake SVG files.
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -42,24 +37,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Prepare Python.
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # Step 4: Inject glow, pulse and shimmer effects.
       - name: Enhance snake animation
         run: |
           python scripts/enhance_snake.py dist/github-snake.svg
           python scripts/enhance_snake.py dist/github-snake-dark.svg --dark
 
-      # Step 5: Publish the generated files.
-      - name: Publish enhanced snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish enhanced snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
