@@ -156,42 +156,37 @@ Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, or
     <td width="50%" align="center">
       <img
         width="100%"
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedantKarne&theme=tokyonight&hide_border=true&border_radius=14&layout=compact&langs_count=8&card_width=500&custom_title=Technology%20Distribution"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedantKarne&theme=midnight-purple&hide_border=true&border_radius=18&layout=compact&langs_count=8&card_width=500&custom_title=Technology%20Distribution"
         alt="Vedant Karne's most used programming languages"
       />
     </td>
 
-
-<td width="50%" align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VedantKarne&theme=tokyonight&utcOffset=5.5"
-    alt="Vedant Karne's most productive coding hours"
-  />
-</td>
-
-
+  <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VedantKarne&theme=midnight_purple&utcOffset=5.5"
+        alt="Vedant Karne's most productive coding hours"
+      />
+    </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <img
         width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantKarne&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantKarne&theme=midnight_purple"
         alt="Vedant Karne's repositories by programming language"
       />
     </td>
 
-
-<td width="50%" align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VedantKarne&theme=tokyonight"
-    alt="Vedant Karne's most committed programming languages"
-  />
-</td>
-
-
+  <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VedantKarne&theme=midnight_purple"
+        alt="Vedant Karne's most committed programming languages"
+      />
+    </td>
+    
   </tr>
 </table>
 
@@ -199,12 +194,17 @@ Email Me 👉 ✉️ **vedantkarne15@gmail.com** for collaboration, projects, or
 
 <!-- Contribution Timeline -->
 
-<h3 align="center">⚡ Contribution Momentum ⚡</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=27&duration=3000&pause=1200&color=7EE787&center=true&vCenter=true&repeat=true&width=650&height=55&lines=VEDANT%27S+CONTRIBUTION+TIMELINE"
+    alt="Vedant's Contribution Timeline"
+  />
+</p>
 
 <p align="center">
   <img
     width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Vedant%27s%20Contribution%20Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&bg_color=0d1117&color=7ee787&line=3fb950&point=adffcf&area=true&area_color=238636&hide_border=true&radius=14"
     alt="Vedant Karne's GitHub contribution activity graph"
   />
 </p>
