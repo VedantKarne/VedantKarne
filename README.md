@@ -1,477 +1,478 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,25:1A0B3D,50:2D1B5E,75:4C2A85,100:6D28D9&height=280&section=header&text=Vedant%20Karne&fontSize=62&fontColor=E9D5FF&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Agentic%20RAG%20%26%20Multi-Agent%20Systems%20Architect&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+![Vedant Karne — Software & AI/ML Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:090314,22:1E1B4B,48:4C1D95,72:6D28D9,100:312E81&height=260&section=header&text=VEDANT%20KARNE&fontSize=56&fontColor=F5F3FF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%2FML%20ENGINEER%20%E2%80%A2%20PRODUCT%20BUILDER&descSize=16&descAlignY=55&animation=fadeIn)
 
-<br/>
+[![Dynamic Intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=920&height=54&lines=Engineering+reliable+AI+systems+from+research+to+product;Building+agentic+RAG%2C+ML+platforms+and+full-stack+products;Turning+complex+problems+into+measurable+engineering+impact)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+Agentic+RAG+%26+Multi-Agent+AI+Systems;LangChain+%C3%97+LangGraph+%C3%97+Hybrid+Retrieval+Architect;Pipeline+Engineer+%7C+Rule-Based+Logic+%2B+ML+%2B+RAG;Turning+Financial+%26+Regulatory+Chaos+into+Structured+Intelligence" alt="Typing SVG" />
-</a>
+<br>
 
-<br/><br/>
+[![PICT](https://img.shields.io/badge/PICT_PUNE-B.TECH_CE_'28-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)](https://pict.edu/)
+![CGPA](https://img.shields.io/badge/CGPA-9.56_%2F_10-6D28D9?style=flat-square&logo=academia&logoColor=white)
+![Specialization](https://img.shields.io/badge/SPECIALIZATION-AI_%2F_ML-7C3AED?style=flat-square&logo=probot&logoColor=white)
+[![Location](https://img.shields.io/badge/LOCATION-PUNE%2C_INDIA-312E81?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Pune,+Maharashtra)
+![Availability](https://img.shields.io/badge/STATUS-OPEN_FOR_2026_ROLES-4F46E5?style=flat-square&logo=statuspage&logoColor=white)
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering%20(AI/ML)-6D28D9?style=for-the-badge&labelColor=0F0524" />
-<img src="https://img.shields.io/badge/CGPA-9.56%2F10-7C3AED?style=for-the-badge&labelColor=0F0524" />
-<img src="https://img.shields.io/badge/PICT%20Pune-Class%20of%202028-8B5CF6?style=for-the-badge&labelColor=0F0524" />
+<br><br>
 
-<br/>
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantKarne?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-karne-31023b302/)
+[![Engineering Stories](https://img.shields.io/badge/ENGINEERING_STORIES-5B21B6?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vedantkarne15)
+[![Email](https://img.shields.io/badge/CONTACT-312E81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantkarne15@gmail.com)
 
-<img src="https://img.shields.io/badge/📍_Pune,_Maharashtra,_India-1A0B3D?style=flat-square&color=4C2A85" />
+<br><br>
 
-<br/><br/>
-
-<a href="https://medium.com/@vedantkarne15"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=readme&logoColor=E9D5FF" /></a>
-<a href="https://linkedin.com/in/vedantkarne"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=E9D5FF" /></a>
-<a href="mailto:vedantkarne15@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=E9D5FF" /></a>
-<a href="https://github.com/VedantKarne"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=E9D5FF" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VedantKarne&style=flat-square&color=8b5cf6&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/VedantKarne?style=flat-square&color=8b5cf6&labelColor=1A0B3D&label=Followers" />
-<img src="https://img.shields.io/github/stars/VedantKarne?style=flat-square&color=8b5cf6&labelColor=1A0B3D&label=Stars" />
+![Profile Views](https://komarev.com/ghpvc/?username=VedantKarne&label=PROFILE+VIEWS&color=6D28D9&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/VedantKarne?style=flat-square&logo=github&label=FOLLOWERS&color=7C3AED)](https://github.com/VedantKarne?tab=followers)
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/VedantKarne?color=4F46E5&style=flat-square&logo=star&label=TOTAL%20STARS)](https://github.com/VedantKarne?tab=repositories)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-400%2B_SOLVED-5B21B6?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vedant_Karne_2/)
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
+<div align="center">
+<sub><code>// 01 · CORE_IDENTITY</code></sub>
+<h2>About & Engineering Mindset</h2>
+</div>
 
-<br/>
+```console
+vedant@pict:~$ ./profile --status
 
-## <img src="https://img.shields.io/badge/-01-6D28D9?style=flat-square" /> About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/VedantKarne/VedantKarne/main/assets/purple-code.gif" />
-
-I'm an **AI/ML Engineer in the making**, currently pursuing my B.Tech in Computer Engineering (AI/ML Specialization) at **PICT, Pune**, holding a **9.56 CGPA**. My engineering identity sits at the intersection of **software architecture, machine learning, and retrieval-augmented generation** — I design systems that fuse deterministic rule-based logic with statistical ML and LLM-orchestrated reasoning.
-
-- 🧠 Specializing in **agentic, multi-agent RAG pipelines** — hybrid retrieval, reranking, and hierarchical indexing over unstructured regulatory and financial corpora
-- ⚙️ Deep focus on **pipeline architecture**: LangChain / LangGraph orchestration, FastAPI backends, tri-store retrieval (vector + lexical + relational)
-- 📊 Strong grounding in **classical ML** — gradient-boosted ensembles, Bayesian optimization, and explainability (SHAP), applied to fraud detection, credit scoring, and clinical triage
-- 🏗️ A **product-engineering mindset** — I build for correctness, auditability, and real-world deployment, not just leaderboard metrics
-- 🏆 **NPTEL Gold Medallist** (Top 2% nationally) and **Perfect Score, Andrew Ng's ML Specialization**
-
-```yaml
-open_to:
-  - AI/ML Engineering Internships & New-Grad Roles
-  - Agentic Systems & LLM Orchestration Projects
-  - Research Collaborations in RAG / Retrieval Systems
-  - Open Source Contributions in ML Infra & Dev Tooling
+ROLE          Software Engineer · AI/ML Engineer · Product Builder
+EDUCATION     B.Tech Computer Engineering (AI/ML) @ PICT Pune
+MISSION       Research-grade intelligence → reliable software products
+PRINCIPLES    Systems thinking · measurable impact · auditable decisions
 ```
 
-<br clear="right"/>
+I am a **Computer Engineering undergraduate at Pune Institute of Computer Technology**, specializing in **AI/ML** and engineering products across intelligent systems, backend infrastructure, and full-stack development.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
+My work spans **agentic RAG platforms, retrieval engineering, production-oriented ML pipelines, document intelligence, real-time APIs, and interactive software products**. I approach every system with the same discipline: identify the real constraint, design clean boundaries, expose observability, validate under realistic conditions, and ship an experience people can trust.
 
-<br/>
+Across finance, regulatory intelligence, healthcare, credit risk, fraud detection, and algorithm visualization, I focus on converting promising models into **reliable, explainable, auditable, and measurable systems**.
 
-## <img src="https://img.shields.io/badge/-02-6D28D9?style=flat-square" /> Tech Stack
+> [!IMPORTANT]
+> **Open to 2026 Software Engineering, AI/ML Engineering, Backend Engineering, and Applied AI internships**, along with open-source collaborations and high-impact product teams.
+
+---
+
+<div align="center">
+<sub><code>// 02 · ENGINEERING_TOOLKIT</code></sub>
+<h2>Tech Stack</h2>
+</div>
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark)](https://skillicons.dev)
 
-**Backend & APIs**
+### Frontend & Desktop
 
-<img src="https://skillicons.dev/icons?i=fastapi,py&theme=dark" />
-<img src="https://img.shields.io/badge/Pydantic-4C1D95?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-4C1D95?style=flat-square&logoColor=white" />
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron&theme=dark)](https://skillicons.dev)
 
-**Databases & Vector Stores**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&theme=dark" />
-<img src="https://img.shields.io/badge/ChromaDB-4C1D95?style=flat-square&logoColor=white" />
+[![Backend](https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,postgres,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
-**AI / RAG / Orchestration**
+### DevOps & Tooling
 
-<img src="https://img.shields.io/badge/LangChain-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/BM25_+_Dense_Hybrid_Retrieval-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Cross--Encoder_Reranking-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RAPTOR-6D28D9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/BGE--M3_/_Sentence--Transformers-6D28D9?style=flat-square&logoColor=white" />
-
-**ML / Modeling**
-
-<img src="https://img.shields.io/badge/XGBoost-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LightGBM-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/CatBoost-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/TabNet-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Optuna_(Bayesian_Opt)-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square&logoColor=white" />
-
-**Document AI & Tooling**
-
-<img src="https://img.shields.io/badge/PyMuPDF-8B5CF6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Docling-8B5CF6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OCR_Pipelines-8B5CF6?style=flat-square&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=git,github,docker,react&theme=dark" />
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br/>
+| Engineering Layer | Core Technologies |
+| :--- | :--- |
+| **Agentic Systems** | LangGraph, LangChain, multi-agent routing, Human-in-the-Loop, structured outputs |
+| **Retrieval** | ChromaDB, BM25, dense embeddings, RRF, Cross-Encoder reranking, RAPTOR, BGE-M3 |
+| **ML & Modeling** | XGBoost, LightGBM, CatBoost, TabNet, Optuna, SHAP, ensemble learning |
+| **Document AI** | PyMuPDF, Docling, OCR fallback, adaptive PDF routing, metadata-aware chunking |
+| **Engineering Practice** | API-first architecture, system design, testing, debugging, Docker, Git workflows |
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
+---
 
-<br/>
+<div align="center">
+<sub><code>// 03 · INTELLIGENCE_LAYER</code></sub>
+<h2>AI / ML Expertise</h2>
+</div>
 
-## <img src="https://img.shields.io/badge/-03-6D28D9?style=flat-square" /> AI / ML Expertise
+| Domain | Level | Production Focus |
+| :--- | :---: | :--- |
+| **Agentic AI & RAG** | `ADVANCED` | LangGraph DAGs, intelligent routing, HITL approval, typed outputs, execution observability |
+| **Retrieval Engineering** | `ADVANCED` | Dense + lexical fusion, RRF, reranking, entity-aware retrieval, RAPTOR trees |
+| **Machine Learning** | `ADVANCED` | Gradient boosting, ensemble design, temporal validation, feature engineering |
+| **Model Optimization** | `ADVANCED` | Bayesian optimization, threshold calibration, leakage detection, error analysis |
+| **Explainable & Fair AI** | `ADVANCED` | SHAP, demographic fairness checks, citation grounding, auditable decisions |
+| **Document Intelligence** | `PROFICIENT` | Parser routing, OCR fallback, metadata preservation, hierarchical indexing |
+| **ML Platform Engineering** | `PROFICIENT` | FastAPI inference, Pydantic contracts, Dockerized services, real-time integration |
+
+### Multi-Agent Retrieval Architecture
+
+```mermaid
+flowchart TD
+    A["Regulatory, financial and enterprise documents"] --> B["Adaptive ingestion and metadata preservation"]
+    B --> C["Tri-store knowledge layer"]
+    C --> D["Dense retrieval"]
+    C --> E["BM25 lexical retrieval"]
+    C --> F["Structured KPI store"]
+    D --> G["RRF fusion and Cross-Encoder reranking"]
+    E --> G
+    F --> G
+    G --> H["LangGraph agent orchestration"]
+    H --> I["Citation-grounded answer"]
+    H --> J["Human review and audit trail"]
+```
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Agentic RAG Systems** | ⭐⭐⭐⭐⭐ | Multi-agent LangGraph workflows, hybrid BM25 + dense retrieval, RRF fusion, cross-encoder reranking |
-| **Document Intelligence** | ⭐⭐⭐⭐⭐ | PyMuPDF/Docling ingestion, OCR fallback routing, metadata-aware chunking, RAPTOR hierarchical indexing |
-| **Classical ML / Ensembles** | ⭐⭐⭐⭐☆ | XGBoost, LightGBM, CatBoost, TabNet ensembles with Optuna-driven Bayesian weight optimization |
-| **Retrieval Infrastructure** | ⭐⭐⭐⭐☆ | Tri-store architectures — SQLite/PostgreSQL + ChromaDB + BM25 lexical indexes |
-| **Model Explainability** | ⭐⭐⭐⭐☆ | SHAP-based feature attribution, fairness-constrained model auditing |
-| **Full-Stack Delivery** | ⭐⭐⭐⭐☆ | FastAPI services, React/React Flow visualization, WebSockets, SSE observability |
-| **Applied Statistics** | ⭐⭐⭐☆☆ | Chronological validation design, leakage detection, ROC-AUC calibration |
+[![Agent Execution Trace](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=900&pause=300&color=A78BFA&multiline=true&repeat=true&width=900&height=145&lines=%5Brouter%5D+intent+classified+%E2%86%92+multi_company_financial_analysis;%5Bingestion%5D+metadata+preserved+%E2%86%92+document_graph_ready;%5Bretrieval%5D+dense%3A0.65+%2B+lexical%3A0.35+%E2%86%92+RRF_fusion;%5Breranker%5D+cross_encoder+%E2%86%92+top_evidence_selected;%5Bagent%5D+grounded_response+%E2%86%92+citations_verified+%E2%86%92+COMPLETE)](https://github.com/VedantKarne)
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-04-6D28D9?style=flat-square" /> Featured Projects
+<div align="center">
+<sub><code>// 04 · ENGINEERING_PORTFOLIO</code></sub>
+<h2>Featured Systems & Projects</h2>
+<p><code>Click a system to inspect its architecture, scale, performance, and impact.</code></p>
+</div>
 
 <details open>
-<summary><b>🧬 AURA — Agentic Financial Intelligence Platform</b></summary>
-<br/>
+<summary><b>AURA — Agentic Financial Intelligence Platform</b> &nbsp; <code>FINANCIAL RAG</code></summary>
 
-Agentic hybrid-RAG platform for multi-company financial analysis, engineered to eliminate entity starvation and hallucination through citation-grounded, tri-store retrieval.
+<br>
 
-| | |
-|---|---|
-| **Stack** | LangGraph · FastAPI · ChromaDB · SQLite · BM25 · React Flow · SSE · Docker |
-| **Scale** | Multi-company financial corpora with real-time agent orchestration |
-| **Performance** | Hybrid retrieval (dense + BM25 + RRF + cross-encoder rerank) for high-precision recall |
-| **Security** | Citation-grounded, hallucination-resistant response generation |
-| **Impact** | Converted into a formal research paper; validated on Apple, Microsoft, Nvidia earnings transcripts |
-| **Repository** | [`github.com/VedantKarne/AURA`](https://github.com/VedantKarne) |
+![Citation Grounded](https://img.shields.io/badge/CITATION_GROUNDED-6D28D9?style=flat-square&logo=databricks&logoColor=white)
+![Multi Agent](https://img.shields.io/badge/MULTI_AGENT-LANGGRAPH-4C1D95?style=flat-square&logo=probot&logoColor=white)
+![Dockerized](https://img.shields.io/badge/DEPLOYMENT-DOCKERIZED-4338CA?style=flat-square&logo=docker&logoColor=white)
 
-Designed a tri-store retrieval architecture combining SQLite for financial KPIs, ChromaDB for semantic retrieval, and BM25 lexical indexing, orchestrated through LangGraph multi-agent workflows with intelligent query routing and real-time observability — fully Dockerized for scalable deployment with AI-generated investment briefings and KPI dashboards.
+An enterprise-oriented platform that turns multi-company earnings material into source-grounded analysis, investment briefings, and KPI views through observable agent workflows.
 
-</details>
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, LangGraph, LangChain, React Flow, SSE, SQLite, ChromaDB, BM25, Docker |
+| **Architecture** | Tri-store retrieval: deterministic KPI store + semantic vector store + lexical index |
+| **Performance** | RRF and Cross-Encoder reranking improve relevance and reduce entity starvation |
+| **Reliability** | Citation traceability, structured routing, provenance preservation, grounded synthesis |
+| **Impact** | Converts fragmented earnings information into auditable financial intelligence |
+| **Repository** | [VedantKarne/AURA-Financial-Intelligence](https://github.com/VedantKarne/AURA-Financial-Intelligence) |
 
-<details>
-<summary><b>🏛️ Nirmaan AI — Agentic DRHP Intelligence Platform (SEBI PS-04, Ongoing)</b></summary>
-<br/>
-
-Multi-agent RAG platform automating SME IPO offer-document preparation, built for the National SEBI Hackathon under Problem Statement 4.
-
-| | |
-|---|---|
-| **Stack** | LangGraph · FastAPI · PostgreSQL · ChromaDB · RAPTOR · Pydantic · HITL Validation |
-| **Scale** | SEBI regulations, DRHPs, and MCA filings as a regulatory + precedent corpus |
-| **Performance** | Adaptive ingestion with intelligent PDF routing, OCR fallback, metadata-aware chunking |
-| **Security** | Human-in-the-Loop validation with structured, auditable Pydantic outputs |
-| **Impact** | Structured, citation-backed regulatory document generation for SME issuers |
-| **Repository** | [`github.com/VedantKarne/Nirmaan-AI`](https://github.com/VedantKarne) |
-
-Built an adaptive document-ingestion pipeline with RAPTOR hierarchical indexing for regulatory documents, exposing agent workflows through a FastAPI backend with structured, auditable outputs.
+The system exposes each routing, retrieval, and synthesis stage through live execution traces. This makes the agent graph inspectable instead of presenting an opaque single-prompt interface.
 
 </details>
 
 <details>
-<summary><b>💳 CredX — Fair Credit Scoring Platform (🥇 1st Place, ALCISTA: HackTheBank)</b></summary>
-<br/>
+<summary><b>Nirmaan AI — Agentic DRHP Intelligence Platform</b> &nbsp; <code>SEBI PS-04</code></summary>
 
-AI-powered credit scoring platform prioritizing fairness across demographics without sacrificing predictive performance.
+<br>
 
-| | |
-|---|---|
-| **Stack** | XGBoost · Ensemble ML · Feature Engineering · Fairness-Constrained Modeling |
-| **Scale** | End-to-end credit risk modeling for real-time loan eligibility decisions |
-| **Performance** | Improved ROC-AUC from 68% to **93.54%** through iterative optimization |
-| **Security** | Chronological train/test splitting to eliminate data leakage |
-| **Impact** | Delivered sub-2-second real-time credit assessment; **1st place**, Team MoneyHeist |
-| **Repository** | [`github.com/VedantKarne/CredX`](https://github.com/VedantKarne) |
+![RAPTOR](https://img.shields.io/badge/INDEXING-RAPTOR-6D28D9?style=flat-square&logo=treehouse&logoColor=white)
+![HITL](https://img.shields.io/badge/VALIDATION-HUMAN_IN_THE_LOOP-4C1D95?style=flat-square&logo=checkmarx&logoColor=white)
+![RegTech](https://img.shields.io/badge/DOMAIN-REGTECH-4338CA?style=flat-square&logo=readthedocs&logoColor=white)
 
-Led end-to-end ML development, built and optimized ensemble-based credit risk models, and identified/eliminated data leakage by redesigning the validation strategy for robust, production-ready generalization.
+A regulatory intelligence platform for the National SEBI Hackathon, engineered to accelerate SME IPO offer-document preparation from source ingestion through merchant-banker review.
 
-</details>
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, LangGraph, PostgreSQL, ChromaDB, Docling, PyMuPDF, OCR, Pydantic |
+| **Scale** | SEBI regulations, DRHPs, MCA filings, issuer documents, and hierarchical indexes |
+| **Performance** | Adaptive parser routing, OCR fallback, metadata-aware chunking, hybrid retrieval, reranking |
+| **Reliability** | HITL checkpoints, typed response contracts, citations, provenance, auditable generation |
+| **Impact** | Targets the time, cost, and compliance burden of SME IPO DRHP preparation |
+| **Repository** | [VedantKarne/SME-IPO-DRHP-Generator](https://github.com/VedantKarne/SME-IPO-DRHP-Generator) |
 
-<details>
-<summary><b>🚑 Sentinel AI — Emergency Triage & Hospital Routing (Top 77 of ~600, Ignisia Hackathon)</b></summary>
-<br/>
-
-AI triage engine predicting patient severity and treatment needs from live vitals within a 24-hour hackathon build.
-
-| | |
-|---|---|
-| **Stack** | XGBoost · LightGBM · FastAPI · React · WebSockets · MapLibre |
-| **Scale** | Live ICU bed capacity, specialist availability, and equipment-aware routing |
-| **Performance** | Real-time severity prediction from streaming vitals and symptoms |
-| **Security** | Role-based interfaces for EMT, command-dashboard, and hospital-admin use |
-| **Impact** | Top 77 of ~600 teams at MIT-WPU's national-level AI hackathon |
-| **Repository** | [`github.com/VedantKarne/Sentinel-AI`](https://github.com/VedantKarne) |
-
-Developed intelligent hospital-routing logic weighing specialist availability, live ICU bed capacity, and equipment, exposed through EMT, command-dashboard, and hospital-admin interfaces.
+Nirmaan treats regulatory drafting as a controlled workflow rather than free-form generation. Every high-stakes output remains connected to its evidence and review path.
 
 </details>
 
 <details>
-<summary><b>🕵️ Fraud Detection & Risk Management System (TechFiesta 2026)</b></summary>
-<br/>
+<summary><b>CredX — Fair Credit Scoring Platform</b> &nbsp; <code>1ST PLACE · ALCISTA '25</code></summary>
 
-Two-stage hybrid fraud pipeline combining rule-based filtering with an ensemble ML gray-zone classifier.
+<br>
 
-| | |
-|---|---|
-| **Stack** | XGBoost · LightGBM · CatBoost · Bayesian Neural Network · Optuna |
-| **Scale** | 30-rule/9-tier filtering engine across 235 engineered features |
-| **Performance** | Realistic **89.0% ROC-AUC** on 22,500 unseen transactions post-leakage correction |
-| **Security** | Chronological train/test splitting to prevent temporal data leakage |
-| **Impact** | Corrected an inflated 98.8% ROC-AUC to a production-realistic benchmark |
-| **Repository** | [`github.com/VedantKarne/Fraud-Detection-System`](https://github.com/VedantKarne) |
+![ROC AUC](https://img.shields.io/badge/ROC--AUC-93.54%25-6D28D9?style=flat-square&logo=chartdotjs&logoColor=white)
+![Latency](https://img.shields.io/badge/INFERENCE-%3C_2_SECONDS-4C1D95?style=flat-square&logo=speedtest&logoColor=white)
+![Fair AI](https://img.shields.io/badge/ML-FAIRNESS_AWARE-4338CA?style=flat-square&logo=scikitlearn&logoColor=white)
 
-Diagnosed and corrected data leakage, then optimized ensemble weights and decision thresholds via Bayesian optimization across temporal, device, and graph-based behavioral features.
+An AI-powered credit assessment system built for ALCISTA: HackTheBank, where I led end-to-end ML engineering for Team MoneyHeist's first-place solution.
+
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | Python, ensemble ML, feature engineering, fairness analysis, real-time inference |
+| **Scale** | Credit-risk assessment across behavioral, financial, gender, and regional signals |
+| **Performance** | Improved ROC-AUC from **68% to 93.54%** with decisions delivered in **under 2 seconds** |
+| **Reliability** | Chronological validation, leakage controls, and fairness checks across demographic groups |
+| **Impact** | **1st Place**, ALCISTA '25 HackTheBank — Seniors Category |
+| **Case Study** | [How I Built Fair AI That Reached 93.54% AUC](https://medium.com/@vedantkarne15/-704f3c7e7549) |
+
+The decisive engineering work was not simply choosing a stronger model. I found and eliminated leakage, rebuilt the evaluation strategy, optimized the ensemble, and validated predictive strength alongside demographic fairness.
 
 </details>
 
 <details>
-<summary><b>🗺️ RouteRush Island — Gamified Pathfinding Simulator</b></summary>
-<br/>
+<summary><b>Sentinel AI — Emergency Triage & Hospital Routing</b> &nbsp; <code>TOP 77 / ~600</code></summary>
 
-Cross-platform desktop application visualizing and comparing graph pathfinding algorithms through an interactive island simulation.
+<br>
 
-| | |
-|---|---|
-| **Stack** | Electron · JavaScript · Custom Pathfinding Engines |
-| **Scale** | Windows, macOS, and Linux production-ready builds |
-| **Performance** | Real-time execution visualization with live performance metrics |
-| **Security** | N/A — standalone educational desktop application |
-| **Impact** | Plug-and-play learning tool for shortest-path algorithm education |
-| **Repository** | [`github.com/VedantKarne/RouteRush-Island`](https://github.com/VedantKarne) |
+![Hospitals](https://img.shields.io/badge/ROUTING-18_PUNE_HOSPITALS-6D28D9?style=flat-square&logo=openstreetmap&logoColor=white)
+![Realtime](https://img.shields.io/badge/UPDATES-WEBSOCKETS-4C1D95?style=flat-square&logo=socketdotio&logoColor=white)
+![Build](https://img.shields.io/badge/BUILD-24_HOURS-4338CA?style=flat-square&logo=clockify&logoColor=white)
 
-Implemented Dijkstra, Bidirectional Dijkstra, Bellman-Ford, and a BMSSP-inspired simulator with dynamic obstacle routing and side-by-side algorithm comparisons.
+A golden-hour emergency platform combining patient triage, capability-aware hospital routing, and real-time operational interfaces.
+
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | XGBoost, LightGBM, FastAPI, React, Node.js, WebSockets, MapLibre GL, Three.js, OSRM |
+| **Scale** | Eight-class diagnosis pipeline, 18 hospitals, multiple care tiers, equipment and bed constraints |
+| **Performance** | Soft-vote triage, constraint ranking, real-road routing, live dispatch synchronization |
+| **Reliability** | Hard capability filters, explainable decisions, bounded reservations, resource validation |
+| **Impact** | Top 77 of approximately 600 teams at the Ignisia National AI Hackathon |
+| **Repository** | [AkshatPatil101/Eternum_HC03](https://github.com/AkshatPatil101/Eternum_HC03) |
+
+Sentinel routes an ambulance to a hospital that can actually treat the patient—not merely the geographically nearest facility.
 
 </details>
 
-<br/>
+<details>
+<summary><b>Fraud Guard — Cascaded Fraud & Risk Pipeline</b> &nbsp; <code>TECHFIESTA 2026</code></summary>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
+<br>
 
-<br/>
+![Rules](https://img.shields.io/badge/ENGINE-30_RULES_%2F_9_TIERS-6D28D9?style=flat-square&logo=dependabot&logoColor=white)
+![Features](https://img.shields.io/badge/FEATURES-235_ENGINEERED-4C1D95?style=flat-square&logo=apachespark&logoColor=white)
+![Evaluation](https://img.shields.io/badge/ROC--AUC-89.0%25_REALISTIC-4338CA?style=flat-square&logo=chartdotjs&logoColor=white)
 
-## <img src="https://img.shields.io/badge/-05-6D28D9?style=flat-square" /> Experience
+A cascaded fraud-detection platform combining deterministic risk controls with probabilistic models for ambiguous gray-zone transactions.
 
-### ML Engineer & Pipeline Orchestrator — Team Anomaly.exe · TechFiesta 2026
-**2026**
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | FastAPI, Bayesian Neural Network, XGBoost, LightGBM, CatBoost, Optuna, React |
+| **Scale** | 30 expert rules, 9 tiers, 235 features, 22,500 unseen chronological test transactions |
+| **Performance** | Leakage-corrected **89.0% ROC-AUC** with optimized ensemble weights and thresholds |
+| **Reliability** | Tiered filtering, calibrated gray-zone review, leakage-aware evaluation, explainable signals |
+| **Impact** | Replaced an inflated 98.8% score with a realistic production-oriented validation framework |
+| **Repository** | [AkshatPatil101/Fraud-Guard](https://github.com/AkshatPatil101/Fraud-Guard) |
 
-Led the design of a two-stage hybrid fraud-detection pipeline, correcting critical data leakage and optimizing ensemble decision-making at production scale.
+The pipeline resolves clear cases through deterministic rules, routes ambiguity through a Bayesian model, and combines the remaining signals with a tuned gradient-boosting ensemble.
 
-- Designed a 30-rule/9-tier filtering engine feeding a Bayesian Neural Network for gray-zone classification
-- Diagnosed inflated ROC-AUC (98.8%) and re-engineered validation to a realistic 89.0%
-- Optimized ensemble weights across XGBoost, LightGBM, and CatBoost via Optuna
+</details>
 
-`Python` `XGBoost` `LightGBM` `CatBoost` `Optuna` `Bayesian Optimization`
+<details>
+<summary><b>RouteRush Island — Gamified Pathfinding Simulator</b> &nbsp; <code>CROSS-PLATFORM</code></summary>
 
-<br/>
+<br>
 
-### ML Engineer — Team MoneyHeist · ALCISTA: HackTheBank (PICT Finance Society)
-**2025**
+![Algorithms](https://img.shields.io/badge/ALGORITHMS-4_PATHFINDERS-6D28D9?style=flat-square&logo=thealgorithms&logoColor=white)
+![Platforms](https://img.shields.io/badge/BUILDS-WINDOWS_%C2%B7_MACOS_%C2%B7_LINUX-4C1D95?style=flat-square&logo=electron&logoColor=white)
+![Realtime](https://img.shields.io/badge/VISUALIZATION-REAL_TIME-4338CA?style=flat-square&logo=googlemaps&logoColor=white)
 
-Led end-to-end ML development for CredX, a fairness-constrained AI credit-scoring platform, finishing **1st place** in the Seniors category.
+A desktop experience that transforms shortest-path algorithms from static console output into an interactive tropical-island simulation.
 
-- Improved model ROC-AUC from 68% to 93.54% through iterative feature engineering
-- Eliminated data leakage via chronological train/test redesign
-- Collaborated with engineering to deploy sub-2-second real-time credit assessment
+| Dimension | System Detail |
+| :--- | :--- |
+| **Stack** | Electron, JavaScript, HTML, CSS, graph algorithms, cross-platform packaging |
+| **Scale** | Dijkstra, Bidirectional Dijkstra, Bellman-Ford, BMSSP-inspired simulation |
+| **Performance** | Live execution visualization, comparative metrics, traffic, obstacles, dynamic rerouting |
+| **Reliability** | Local-first execution with no required cloud credentials or personal-data pipeline |
+| **Impact** | Converts abstract DSA concepts into a visual, explorable learning product |
+| **Repository** | [VedantKarne/routerush-island](https://github.com/VedantKarne/routerush-island) |
 
-`Python` `XGBoost` `Fairness-Aware ML` `Model Deployment`
+RouteRush evolved from a C++ academic exercise into a polished learning product distributed across Windows, macOS, and Linux.
 
-<br/>
+</details>
 
-### Customer Support & Compliance Lead — RideSense AI (EPL Course Project)
-**Ongoing**
-
-Contributed to a smart motorcycle-assistance system integrating IoT sensing, AI voice assistance, and predictive diagnostics.
-
-- Owned customer support and compliance workstreams for the product team
-- Coordinated cross-functional requirements between engineering and compliance
-
-`IoT` `Voice AI` `Predictive Diagnostics` `Team Collaboration`
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-06-6D28D9?style=flat-square" /> Achievements
+---
 
 <div align="center">
+<sub><code>// 05 · LEADERSHIP_LOG</code></sub>
+<h2>Experience</h2>
+</div>
 
-| Recognition | Details |
-|---|---|
-| 🥇 **1st Place — ALCISTA: HackTheBank '25** | Seniors Category, PICT Finance Society |
-| 🏅 **NPTEL Gold Medallist** | Top 2% Nationally — Fundamental Algorithms, Design and Analysis |
-| 💯 **Perfect Score — ML Specialization** | Andrew Ng, DeepLearning.AI / Stanford (via Coursera) |
-| 🏆 **Top 77 of ~600 Teams** | Ignisia National-Level AI Hackathon, MIT World Peace University |
-| ⭐ **5★ C++, 5★ Java, 4★ Python** | HackerRank · 400+ LeetCode DSA problems solved |
-| 🎯 **MHT-CET 99.6735 %ile (AIR 812)** | JEE Main 96.9662 percentile |
+### Student Member — PICT CSI Student Branch
+
+`OCT 2024 → PRESENT` · **Pune Institute of Computer Technology**
+
+- Co-organize technical workshops and student outreach initiatives.
+- Collaborate across technical and operational teams to deliver computing events.
+- Support knowledge-sharing programs that make engineering concepts accessible.
+
+![Community](https://img.shields.io/badge/COMMUNITY_ENGINEERING-4C1D95?style=flat-square)
+![Outreach](https://img.shields.io/badge/TECHNICAL_OUTREACH-6D28D9?style=flat-square)
+![Collaboration](https://img.shields.io/badge/CROSS_TEAM_COLLABORATION-4338CA?style=flat-square)
+
+### Class Representative — First Year Computer Engineering
+
+`OCT 2024 → FEB 2025` · **Pune Institute of Computer Technology**
+
+- Coordinated academic communication between students, faculty, and the department.
+- Consolidated cohort feedback and resolved information gaps around academic milestones.
+- Built practical stakeholder communication, leadership, and issue-resolution experience.
+
+![Leadership](https://img.shields.io/badge/LEADERSHIP-4C1D95?style=flat-square)
+![Communication](https://img.shields.io/badge/STAKEHOLDER_COMMUNICATION-6D28D9?style=flat-square)
+![Coordination](https://img.shields.io/badge/COHORT_COORDINATION-4338CA?style=flat-square)
+
+### ML Engineer & Architecture Lead — Competition Teams
+
+`2025 → PRESENT` · **MoneyHeist · Eternum · Anomaly.exe**
+
+- Led ML strategy across fintech, emergency response, and fraud-detection hackathon systems.
+- Eliminated data leakage, designed fair evaluation, and integrated real-time inference APIs.
+- Translated model performance into complete end-to-end product experiences.
+
+![ML Engineering](https://img.shields.io/badge/ML_ENGINEERING-4C1D95?style=flat-square)
+![Architecture](https://img.shields.io/badge/SYSTEM_ARCHITECTURE-6D28D9?style=flat-square)
+![Product](https://img.shields.io/badge/PRODUCT_EXECUTION-4338CA?style=flat-square)
+
+---
+
+<div align="center">
+<sub><code>// 06 · RECOGNITION_INDEX</code></sub>
+<h2>Achievements</h2>
+</div>
+
+| Recognition | Verified Detail |
+| :--- | :--- |
+| **ALCISTA '25 HackTheBank** | **1st Place**, Seniors Category — Team MoneyHeist, CredX fair-credit platform |
+| **NPTEL Gold Medallist** | Top **2% nationally** — Fundamental Algorithms, Design and Analysis |
+| **Machine Learning Specialization** | **100% score** — Andrew Ng, DeepLearning.AI / Stanford via Coursera |
+| **Ignisia National AI Hackathon** | Top **77 of approximately 600 teams** in a national 24-hour build |
+| **Competitive Programming** | 5-Star C++, 5-Star Java, 4-Star Python on HackerRank; **400+ LeetCode** problems |
+| **MHT-CET** | **99.6735 percentile**, AIR 812 |
+| **JEE Main** | **96.9662 percentile** |
+
+---
+
+<div align="center">
+<sub><code>// 07 · VERIFIED_CREDENTIALS</code></sub>
+<h2>Certifications</h2>
+</div>
+
+### NPTEL
+
+[![NPTEL Algorithms](https://img.shields.io/badge/FUNDAMENTAL_ALGORITHMS-GOLD_%C2%B7_TOP_2%25-5B21B6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://nptel.ac.in/)
+[![NPTEL Cyber Security](https://img.shields.io/badge/INTERNET_CRIMES_%26_CYBER_SECURITY-94%25-4338CA?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://nptel.ac.in/)
+
+### DeepLearning.AI · Stanford · Coursera
+
+[![Machine Learning Specialization](https://img.shields.io/badge/MACHINE_LEARNING_SPECIALIZATION-100%25-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+
+### Pune Institute of Computer Technology
+
+[![Java Backend](https://img.shields.io/badge/JAVA_BACKEND_DEVELOPMENT-SPRING_BOOT-4C1D95?style=for-the-badge&logo=springboot&logoColor=white)](https://pict.edu/)
+[![HackTheBank](https://img.shields.io/badge/ALCISTA_HACKTHEBANK-CERTIFICATE_OF_APPRECIATION-312E81?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.linkedin.com/in/vedant-karne-31023b302/)
+
+---
+
+<div align="center">
+<sub><code>// 08 · PROBLEM_SOLVING</code></sub>
+<h2>Coding Profiles</h2>
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-400%2B_SOLVED-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vedant_Karne_2/)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-5%E2%98%85_C%2B%2B_%C2%B7_5%E2%98%85_JAVA_%C2%B7_4%E2%98%85_PYTHON-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-DSA_PRACTICE-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-COMPETITIVE_PROGRAMMING-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-07-6D28D9?style=flat-square" /> Certifications
+---
 
 <div align="center">
+<sub><code>// 09 · LIVE_TELEMETRY</code></sub>
+<h2>GitHub Analytics</h2>
 
-**Coursera / DeepLearning.AI**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedantKarne&show_icons=true&include_all_commits=true&count_private=true&bg_color=090314&title_color=A78BFA&text_color=DDD6FE&icon_color=8B5CF6&border_color=4C1D95&border_radius=14" alt="Vedant Karne GitHub statistics">
+<img width="49%" src="https://streak-stats.demolab.com?user=VedantKarne&background=090314&border=4C1D95&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=DDD6FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B8BA7&border_radius=14" alt="Vedant Karne GitHub streak">
 
-<img src="https://img.shields.io/badge/ML_Specialization_(100%25)-Andrew_Ng-A78BFA?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1A0B3D" />
+<br>
 
-**NPTEL**
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantKarne&theme=tokyonight" alt="Repositories by language">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VedantKarne&theme=tokyonight" alt="Most committed languages">
 
-<img src="https://img.shields.io/badge/Fundamental_Algorithms-Gold_Medallist_Top_2%25-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A0B3D" />
-<img src="https://img.shields.io/badge/Internet_Crimes_%26_Cyber_Security-94%25-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A0B3D" />
+<br>
 
-**Institutional**
-
-<img src="https://img.shields.io/badge/Java_Backend_(Spring_Boot)-PICT-A78BFA?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A0B3D" />
-<img src="https://img.shields.io/badge/ALCISTA_HackTheBank-Certificate_of_Appreciation-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A0B3D" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantKarne&theme=tokyonight" alt="GitHub contribution profile details">
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-08-6D28D9?style=flat-square" /> Coding Profiles
+---
 
 <div align="center">
+<sub><code>// 10 · TROPHY_CABINET</code></sub>
+<h2>GitHub Trophies</h2>
 
-<a href="https://leetcode.com/VedantKarne"><img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-4C1D95?style=for-the-badge&logo=leetcode&logoColor=E9D5FF" /></a>
-<a href="https://www.geeksforgeeks.org/user/VedantKarne"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=E9D5FF" /></a>
-<a href="https://www.hackerrank.com/VedantKarne"><img src="https://img.shields.io/badge/HackerRank-5★_C%2B%2B_%7C_5★_Java-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=E9D5FF" /></a>
-<a href="https://www.codechef.com/users/VedantKarne"><img src="https://img.shields.io/badge/CodeChef-Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=E9D5FF" /></a>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VedantKarne&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-09-6D28D9?style=flat-square" /> GitHub Analytics
+---
 
 <div align="center">
+<sub><code>// 11 · CONTRIBUTION_SIGNAL</code></sub>
+<h2>Contribution Activity</h2>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VedantKarne&show_icons=true&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=6D28D9" />
-<img height="180" src="https://streak-stats.demolab.com?user=VedantKarne&hide_border=true&background=0F0524&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=8B5CF6" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKarne&layout=compact&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF&langs_count=10" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&bg_color=090314&color=C4B5FD&line=8B5CF6&point=60A5FA&area=true&area_color=4C1D95&hide_border=true&radius=14)](https://github.com/VedantKarne)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-10-6D28D9?style=flat-square" /> GitHub Trophies
+---
 
 <div align="center">
+<sub><code>// 12 · COMMIT_STREAM</code></sub>
+<h2>Contribution Snake</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VedantKarne&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+![Contribution Snake](https://raw.githubusercontent.com/VedantKarne/VedantKarne/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-11-6D28D9?style=flat-square" /> Contribution Activity
+---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&theme=react-dark&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%" />
-
+<sub><code>// 13 · ACTIVE_PROCESSES</code></sub>
+<h2>Current Focus</h2>
 </div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-12-6D28D9?style=flat-square" /> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VedantKarne/VedantKarne/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-13-6D28D9?style=flat-square" /> Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced multi-agent orchestration patterns with LangGraph
-    - Production MLOps for retrieval-augmented systems
-    - System design for high-throughput inference pipelines
-  building:
-    - Nirmaan AI — Agentic DRHP Intelligence Platform (SEBI PS-04)
-    - AURA — Agentic Financial Intelligence Platform
-  exploring:
-    - RAPTOR-based hierarchical retrieval for regulatory corpora
-    - Bayesian-optimized ensemble architectures
-    - Human-in-the-Loop validation frameworks for agentic pipelines
-  open_to:
-    - AI/ML Engineering Internships & New-Grad Roles
-    - Research Collaborations in Agentic RAG Systems
-    - Open Source Contributions in ML Infrastructure
+Learning:
+  - Advanced data structures and algorithms
+  - Scalable system design and backend architecture
+  - Production evaluation for agentic AI systems
+
+Building:
+  - Nirmaan AI: regulatory intelligence for SME IPO workflows
+  - AURA: multi-agent financial earnings intelligence
+  - Reliable full-stack products around ML and retrieval systems
+
+Exploring:
+  - Trustworthy RAG and retrieval-quality evaluation
+  - Explainable, fair, and leakage-resistant machine learning
+  - Human-in-the-Loop workflows for high-stakes AI
+
+Open_To:
+  - Software Engineering internships
+  - AI/ML and Applied AI internships
+  - Open-source collaboration
+  - High-impact engineering and research projects
 ```
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=3&section=header)
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-14-6D28D9?style=flat-square" /> Connect
+---
 
 <div align="center">
+<sub><code>// 14 · ESTABLISH_CONNECTION</code></sub>
+<h2>Let's Build Intelligent Software</h2>
 
-<a href="mailto:vedantkarne15@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=E9D5FF" /></a>
-<a href="https://linkedin.com/in/vedantkarne"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=E9D5FF" /></a>
-<a href="https://github.com/VedantKarne"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=E9D5FF" /></a>
-<a href="https://medium.com/@vedantkarne15"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=readme&logoColor=E9D5FF" /></a>
+I am actively seeking engineering roles, open-source collaborations, and ambitious teams building dependable software around AI.
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/GMAIL-vedantkarne15%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantkarne15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VEDANT_KARNE-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-karne-31023b302/)
+[![GitHub](https://img.shields.io/badge/GITHUB-VEDANTKARNE-111827?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VedantKarne)
+[![Medium](https://img.shields.io/badge/MEDIUM-ENGINEERING_STORIES-5B21B6?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vedantkarne15)
+
+<br><br>
+
+<code>"Architecture is the difference between a model in a notebook and a system in production."</code>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,28:6D28D9,52:4C1D95,78:1E1B4B,100:090314&height=145&section=footer&animation=fadeIn)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-*"Architecture is the difference between a model that works in a notebook and a system that works in production."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,25:4C2A85,50:2D1B5E,75:1A0B3D,100:0F0524&height=150&section=footer" width="100%"/>
