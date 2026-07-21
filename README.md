@@ -148,7 +148,6 @@ Nirmaan AI streamlines the preparation of SEBI-aligned SME IPO documentation thr
 
 **Core capabilities**
 
-* Multi-agent document workflows
 * AI-assisted DRHP drafting
 * Financial and legal document extraction
 * SME IPO eligibility assessment
@@ -181,7 +180,6 @@ AURA is designed to transform fragmented financial information into structured, 
 
 **Core capabilities**
 
-* Multi-agent financial research
 * Hybrid retrieval and contextual synthesis
 * Structured company intelligence
 * Evidence-grounded question answering
