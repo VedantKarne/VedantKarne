@@ -307,7 +307,7 @@ Use AI to augment expertise, not imitate it.
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" />
 </p>
 
 <br>
