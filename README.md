@@ -307,7 +307,7 @@ Use AI to augment expertise, not imitate it.
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,md&theme=dark" />
 </p>
 
 <br>
@@ -352,11 +352,10 @@ Use AI to augment expertise, not imitate it.
 <h3 align="center">Backend, Frontend & APIs</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,react,nextjs,tailwind,vite,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/DocumentAI-4338CA?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
@@ -396,7 +395,7 @@ Use AI to augment expertise, not imitate it.
 <h3 align="center">Developer Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,anaconda,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,anaconda,vscode&theme=dark" />
 </p>
 
 <!-- =========================================================
