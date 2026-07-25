@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&repeat=true&width=920&height=55&lines=Building+Production-Grade+Agentic+AI+Systems;Engineering+Intelligence+for+Finance+and+Automation;Backend+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;Transforming+Complex+Problems+into+Reliable+Products"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&repeat=true&width=920&height=55&lines=Building+Agentic+AI+Systems;Engineering+Intelligence+for+Finance+and+Automation;Backend+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;Transforming+Complex+Problems+into+Reliable+Products"
     alt="Vedant Karne's professional interests"
   />
 </p>
