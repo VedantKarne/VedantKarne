@@ -474,24 +474,13 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 
 <!-- SECONDARY ANALYTICS -->
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedantKarne&theme=midnight-purple&hide_border=true&border_radius=16&layout=compact&langs_count=8&card_width=500&custom_title=Technology%20Distribution"
-        alt="Vedant Karne's most used programming languages"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VedantKarne&theme=midnight_purple&utcOffset=5.5"
-        alt="Vedant Karne's productive coding hours"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    width="55%"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedantKarne&theme=midnight-purple&hide_border=true&border_radius=16&layout=compact&langs_count=8&custom_title=Technology%20Distribution"
+    alt="Vedant Karne's most used programming languages"
+  />
+</p>
 
 <br>
 
