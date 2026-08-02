@@ -254,7 +254,7 @@ Production-grade predictive maintenance platform for large-scale military vehicl
 - ~1.89 million operational records processed
 
 <p align="center">
-  <a href="YOUR_REPOSITORY_LINK">
+  <a href="https://github.com/ShreeyaTapaswi/Military-Logistics-Optimization-and-Prediction-System-using-ML-and-Blockchain">
     <img
       src="https://img.shields.io/badge/Explore%20Project-Fleet%20Health%20Intelligence-7C3AED?style=for-the-badge&logo=github&logoColor=white"
       alt="Fleet Health Intelligence"
