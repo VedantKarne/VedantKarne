@@ -30,7 +30,8 @@ jobs:
             area=true&
             area_color=0B5D3B&
             hide_border=true&
-            radius=16
+            radius=16&
+            custom_title=Engineering%20Momentum
 
       - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v3
