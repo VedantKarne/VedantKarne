@@ -491,8 +491,9 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=29&duration=3000&pause=1400&color=7EE787&center=true&vCenter=true&repeat=true&width=700&height=55&lines=ENGINEERING+MOMENTUM"
-    alt="Engineering Momentum"
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&theme=github-compact&hide_border=true"
+    alt="Contribution Chart"
   />
 </p>
 
