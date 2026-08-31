@@ -485,7 +485,7 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <br>
 
 <!-- Contribution Stats -->
-<h2 align="center">🐍 Contribution Stats</h2>
+<h2 align="center"> ⚡ Contribution Stats</h2>
 
 <!-- ENGINEERING MOMENTUM -->
 
