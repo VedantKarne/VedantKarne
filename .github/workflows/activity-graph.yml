@@ -1,0 +1,42 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: VedantKarne
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: dist/activity-graph.svg
+          options: >-
+            bg_color=0d1117&
+            color=7ee787&
+            line=3fb950&
+            point=adffcf&
+            area=true&
+            area_color=238636&
+            hide_border=true&
+            radius=16&
+            custom_title=Engineering%20Momentum
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: activity-graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
