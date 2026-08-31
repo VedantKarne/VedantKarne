@@ -22,19 +22,20 @@ jobs:
           username: VedantKarne
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: dist/activity-graph.svg
-          options: >-
-            bg_color=050816&
-            color=7EE787&
-            title_color=7EE787&
-            line=39FF88&
-            point=ADFFCF&
-            area=true&
-            area_color=0B3D2E&
-            border_color=123524&
-            hide_border=false&
-            grid=true&
-            radius=16&
-            custom_title=Engineering%20Momentum
+          options: |
+            {
+              "bg_color": "050816",
+              "color": "7EE787",
+              "title_color": "7EE787",
+              "line": "39FF88",
+              "point": "ADFFCF",
+              "area_color": "0B3D2E",
+              "area": true,
+              "hide_border": false,
+              "radius": 16,
+              "grid": true,
+              "custom_title": "Engineering Momentum"
+            }
 
       - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v3
