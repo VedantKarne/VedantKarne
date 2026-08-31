@@ -498,7 +498,7 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <p align="center">
   <img
     width="98%"
-    src="https://raw.githubusercontent.com/VedantKarne/VedantKarne/activity-graph/activity-graph.svg"
+    src="https://raw.githubusercontent.com/VedantKarne/VedantKarne/activity-graph/activity-graph.svg?v=2"
     alt="Vedant Karne's GitHub contribution activity graph"
   />
 </p>
