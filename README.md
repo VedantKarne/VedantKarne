@@ -490,14 +490,6 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <!-- ENGINEERING MOMENTUM -->
 
 <p align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&theme=github-compact&hide_border=true"
-    alt="Contribution Chart"
-  />
-</p>
-
-<p align="center">
   <sub>
     <strong>Consistency translated into code.</strong>
   </sub>
@@ -506,7 +498,7 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <p align="center">
   <img
     width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&bg_color=0d1117&color=7ee787&line=3fb950&point=adffcf&area=true&area_color=238636&hide_border=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantKarne&theme=github-compact&hide_border=true"
     alt="Vedant Karne's GitHub contribution activity graph"
   />
 </p>
