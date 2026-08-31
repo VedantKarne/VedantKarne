@@ -23,6 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: dist/activity-graph.svg
           options: >-
+            theme=green&
             bg_color=050816&
             color=7EE787&
             line=39FF88&
