@@ -23,14 +23,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: dist/activity-graph.svg
           options: >-
-            theme=green&
             bg_color=050816&
             color=7EE787&
+            title_color=7EE787&
             line=39FF88&
             point=ADFFCF&
             area=true&
-            area_color=0B5D3B&
-            hide_border=true&
+            area_color=0B3D2E&
+            border_color=123524&
+            hide_border=false&
+            grid=true&
             radius=16&
             custom_title=Engineering%20Momentum
 
