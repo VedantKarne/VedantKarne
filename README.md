@@ -490,12 +490,6 @@ Advanced DSA, system design, SQL, and engineering interview preparation.
 <!-- ENGINEERING MOMENTUM -->
 
 <p align="center">
-  <sub>
-    <strong>Consistency translated into code.</strong>
-  </sub>
-</p>
-
-<p align="center">
   <img
     width="98%"
     src="https://raw.githubusercontent.com/VedantKarne/VedantKarne/activity-graph/activity-graph.svg?v=2"
